@@ -1,2 +1,5 @@
-﻿  08冒泡排序.cpp
-  Project1.vcxproj -> C:\Users\86158\Desktop\Git\myFirstProject\Project1\x64\Debug\Project1.exe
+﻿  01结构体定义和使用.cpp
+C:\Users\86158\Desktop\Git\myFirstProject\Project1\Project1\01结构体定义和使用.cpp(19,8): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+  08冒泡排序.cpp
+  test.cpp
+  Generating Code...

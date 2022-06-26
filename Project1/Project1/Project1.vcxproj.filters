@@ -40,6 +40,9 @@
     <Filter Include="源文件\9指针">
       <UniqueIdentifier>{a54c06eb-eaaf-47f2-9b15-9929fe1ea082}</UniqueIdentifier>
     </Filter>
+    <Filter Include="源文件\10struct">
+      <UniqueIdentifier>{051d7ccf-7001-41f0-a547-509528f86d0a}</UniqueIdentifier>
+    </Filter>
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="04常量.cpp">
@@ -233,6 +236,9 @@
     </ClCompile>
     <ClCompile Include="test.cpp">
       <Filter>源文件\9指针</Filter>
+    </ClCompile>
+    <ClCompile Include="01结构体定义和使用.cpp">
+      <Filter>源文件\10struct</Filter>
     </ClCompile>
   </ItemGroup>
   <ItemGroup>

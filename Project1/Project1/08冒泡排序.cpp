@@ -19,7 +19,7 @@ void printArray(int* arr, int len) {
 		cout << arr[i] << endl;
 	}
 }
-int main111() {
+int main98() {
 	//1、先创建数组
 	int arr[10] = { 4,3,2,6,8,9,10,1,7,5 };
 	//2、数组长度
