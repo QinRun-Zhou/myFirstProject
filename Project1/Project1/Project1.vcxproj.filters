@@ -222,6 +222,18 @@
     <ClCompile Include="05const修饰指针.cpp">
       <Filter>源文件\9指针</Filter>
     </ClCompile>
+    <ClCompile Include="06指针和数组.cpp">
+      <Filter>源文件\9指针</Filter>
+    </ClCompile>
+    <ClCompile Include="07指针和函数.cpp">
+      <Filter>源文件\9指针</Filter>
+    </ClCompile>
+    <ClCompile Include="08冒泡排序.cpp">
+      <Filter>源文件\9指针</Filter>
+    </ClCompile>
+    <ClCompile Include="test.cpp">
+      <Filter>源文件\9指针</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="swap.h">

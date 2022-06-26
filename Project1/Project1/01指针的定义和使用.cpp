@@ -20,6 +20,8 @@ int main91() {
 	cout << "a = " << a << endl;
 	cout << "*p = " << *p << endl;
 
+
+
 	system("pause");
 	return 0;
 }
