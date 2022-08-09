@@ -116,6 +116,7 @@
       <SDLCheck>true</SDLCheck>
       <PreprocessorDefinitions>_DEBUG;_CONSOLE;%(PreprocessorDefinitions)</PreprocessorDefinitions>
       <ConformanceMode>true</ConformanceMode>
+      <AdditionalOptions>/wd4430 %(AdditionalOptions)</AdditionalOptions>
     </ClCompile>
     <Link>
       <SubSystem>Console</SubSystem>
@@ -142,6 +143,7 @@
     <ClCompile Include="01C++书写HelloWorld.cpp" />
     <ClCompile Include="01while循环.cpp" />
     <ClCompile Include="01一维数组的定义.cpp" />
+    <ClCompile Include="01全局区.cpp" />
     <ClCompile Include="01函数的定义.cpp" />
     <ClCompile Include="01单行if语句.cpp" />
     <ClCompile Include="01数据类型_整形.cpp" />
@@ -153,24 +155,29 @@
     <ClCompile Include="02函数的调用.cpp" />
     <ClCompile Include="02多行if语句.cpp" />
     <ClCompile Include="02指针所占内存空间大小.cpp" />
+    <ClCompile Include="02栈区.cpp" />
     <ClCompile Include="02注释.cpp" />
     <ClCompile Include="02猜数字.cpp" />
     <ClCompile Include="02算数运算符-取模.cpp" />
+    <ClCompile Include="02结构体数组.cpp" />
     <ClCompile Include="03do_while循环语句.cpp" />
     <ClCompile Include="03goto语句.cpp" />
     <ClCompile Include="03五只小组的体重.cpp" />
     <ClCompile Include="03值传递.cpp" />
     <ClCompile Include="03变量.cpp" />
+    <ClCompile Include="03堆区.cpp" />
     <ClCompile Include="03多条件if语句.cpp" />
     <ClCompile Include="03数据类型_浮点型.cpp" />
     <ClCompile Include="03空指针.cpp" />
     <ClCompile Include="03算数运算符-递增递减.cpp" />
+    <ClCompile Include="03结构体指针.cpp" />
     <ClCompile Include="04函数常见样式.cpp" />
     <ClCompile Include="04字符型.cpp" />
     <ClCompile Include="04嵌套if语句.cpp" />
     <ClCompile Include="04常量.cpp" />
     <ClCompile Include="04数组元素逆置.cpp" />
     <ClCompile Include="04水仙花数.cpp" />
+    <ClCompile Include="04结构体嵌套结构体.cpp" />
     <ClCompile Include="04赋值运算符.cpp" />
     <ClCompile Include="04野指针.cpp" />
     <ClCompile Include="05const修饰指针.cpp" />
@@ -179,6 +186,7 @@
     <ClCompile Include="05冒泡排序.cpp" />
     <ClCompile Include="05函数的声明.cpp" />
     <ClCompile Include="05比较运算符.cpp" />
+    <ClCompile Include="05结构体做函数参数.cpp" />
     <ClCompile Include="05转移字符.cpp" />
     <ClCompile Include="05选择结构案例-三只小猪称体重.cpp" />
     <ClCompile Include="06二维数组的定义.cpp" />
@@ -187,23 +195,29 @@
     <ClCompile Include="06指针和数组.cpp" />
     <ClCompile Include="06敲桌子.cpp" />
     <ClCompile Include="06标识符命名规则.cpp" />
+    <ClCompile Include="06结构体中const使用场景.cpp" />
     <ClCompile Include="06选择结构-三目运算符.cpp" />
     <ClCompile Include="06逻辑运算符-非.cpp" />
     <ClCompile Include="07二维数组名称用途.cpp" />
     <ClCompile Include="07嵌套循环.cpp" />
     <ClCompile Include="07布尔类型.cpp" />
     <ClCompile Include="07指针和函数.cpp" />
+    <ClCompile Include="07案例1.cpp" />
     <ClCompile Include="07选择结构-switch语句.cpp" />
     <ClCompile Include="07逻辑运算符-与.cpp" />
     <ClCompile Include="08乘法口诀表.cpp" />
     <ClCompile Include="08二维数组应用案例.cpp" />
     <ClCompile Include="08冒泡排序.cpp" />
     <ClCompile Include="08数据的输入.cpp" />
+    <ClCompile Include="08结构体案例2.cpp" />
     <ClCompile Include="08逻辑运算符-或.cpp" />
     <ClCompile Include="01break.cpp" />
     <ClCompile Include="01指针的定义和使用.cpp" />
+    <ClCompile Include="13引用.cpp" />
+    <ClCompile Include="new操作符.cpp" />
     <ClCompile Include="swap.cpp" />
     <ClCompile Include="test.cpp" />
+    <ClCompile Include="通讯录管理系统.cpp" />
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="swap.h" />

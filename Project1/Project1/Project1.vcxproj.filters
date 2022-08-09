@@ -43,6 +43,12 @@
     <Filter Include="源文件\10struct">
       <UniqueIdentifier>{051d7ccf-7001-41f0-a547-509528f86d0a}</UniqueIdentifier>
     </Filter>
+    <Filter Include="源文件\12内存四区">
+      <UniqueIdentifier>{1abf2aa0-51f4-4a97-a27b-4729656be878}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="源文件\11通讯录管理系统成品">
+      <UniqueIdentifier>{6efd74c1-9ac7-41e6-91a6-7b5dd46994af}</UniqueIdentifier>
+    </Filter>
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="04常量.cpp">
@@ -239,6 +245,45 @@
     </ClCompile>
     <ClCompile Include="01结构体定义和使用.cpp">
       <Filter>源文件\10struct</Filter>
+    </ClCompile>
+    <ClCompile Include="02结构体数组.cpp">
+      <Filter>源文件\10struct</Filter>
+    </ClCompile>
+    <ClCompile Include="03结构体指针.cpp">
+      <Filter>源文件\10struct</Filter>
+    </ClCompile>
+    <ClCompile Include="04结构体嵌套结构体.cpp">
+      <Filter>源文件\10struct</Filter>
+    </ClCompile>
+    <ClCompile Include="05结构体做函数参数.cpp">
+      <Filter>源文件\10struct</Filter>
+    </ClCompile>
+    <ClCompile Include="06结构体中const使用场景.cpp">
+      <Filter>源文件\10struct</Filter>
+    </ClCompile>
+    <ClCompile Include="07案例1.cpp">
+      <Filter>源文件\10struct</Filter>
+    </ClCompile>
+    <ClCompile Include="08结构体案例2.cpp">
+      <Filter>源文件\10struct</Filter>
+    </ClCompile>
+    <ClCompile Include="通讯录管理系统.cpp">
+      <Filter>源文件\11通讯录管理系统成品</Filter>
+    </ClCompile>
+    <ClCompile Include="01全局区.cpp">
+      <Filter>源文件\12内存四区</Filter>
+    </ClCompile>
+    <ClCompile Include="02栈区.cpp">
+      <Filter>源文件\12内存四区</Filter>
+    </ClCompile>
+    <ClCompile Include="03堆区.cpp">
+      <Filter>源文件\12内存四区</Filter>
+    </ClCompile>
+    <ClCompile Include="new操作符.cpp">
+      <Filter>源文件\12内存四区</Filter>
+    </ClCompile>
+    <ClCompile Include="13引用.cpp">
+      <Filter>源文件</Filter>
     </ClCompile>
   </ItemGroup>
   <ItemGroup>

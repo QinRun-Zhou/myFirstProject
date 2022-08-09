@@ -1,0 +1,14 @@
+﻿  02结构体数组.cpp
+C:\Users\86158\Desktop\Git\myFirstProject\Project2\Project2\02结构体数组.cpp(17,8): error C2065: “i”: 未声明的标识符
+C:\Users\86158\Desktop\Git\myFirstProject\Project2\Project2\02结构体数组.cpp(17,15): error C2065: “i”: 未声明的标识符
+C:\Users\86158\Desktop\Git\myFirstProject\Project2\Project2\02结构体数组.cpp(17,22): error C2065: “i”: 未声明的标识符
+C:\Users\86158\Desktop\Git\myFirstProject\Project2\Project2\02结构体数组.cpp(17,25): error C2143: 语法错误: 缺少“;”(在“)”的前面)
+C:\Users\86158\Desktop\Git\myFirstProject\Project2\Project2\02结构体数组.cpp(17,27): error C2143: 语法错误: 缺少“;”(在“{”的前面)
+C:\Users\86158\Desktop\Git\myFirstProject\Project2\Project2\02结构体数组.cpp(17,27): error C2143: 语法错误: 缺少“)”(在“{”的前面)
+C:\Users\86158\Desktop\Git\myFirstProject\Project2\Project2\02结构体数组.cpp(18,36): error C2065: “i”: 未声明的标识符
+C:\Users\86158\Desktop\Git\myFirstProject\Project2\Project2\02结构体数组.cpp(18,67): error C3688: 文本后缀“stuArray”无效；未找到文文本运算符或文本运算符模板“operator """"stuArray”
+C:\Users\86158\Desktop\Git\myFirstProject\Project2\Project2\02结构体数组.cpp(18,67): error C2065: “i”: 未声明的标识符
+C:\Users\86158\Desktop\Git\myFirstProject\Project2\Project2\02结构体数组.cpp(18,101): error C2065: “i”: 未声明的标识符
+C:\Users\86158\Desktop\Git\myFirstProject\Project2\Project2\02结构体数组.cpp(18,103): error C2059: 语法错误:“)”
+  test.cpp
+  正在生成代码...
